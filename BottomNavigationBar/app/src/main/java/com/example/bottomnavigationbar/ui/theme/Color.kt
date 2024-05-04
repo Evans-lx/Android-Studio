@@ -1,4 +1,4 @@
-package com.example.loginlab.ui.theme
+package com.example.bottomnavigationbar.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
